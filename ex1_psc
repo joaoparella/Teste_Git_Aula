@@ -1,0 +1,6 @@
+var numero1 = leia("digite um numero")
+var numero2 = leia("digite outro numero")
+
+var soma = numero1 + numero2
+
+escreva("resultado = " + soma)

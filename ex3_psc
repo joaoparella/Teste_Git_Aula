@@ -1,0 +1,24 @@
+var numero1 = leia("digite numero")
+
+var resultado1 = numero1 * 1
+escreva("1 x "+numero1+" = "+resultado1)
+
+var resultado1 = numero1 * 2
+escreva("2 x "+numero1+" = "+resultado1)
+
+var resultado1 = numero1 * 3
+escreva("3 x "+numero1+" = "+resultado1)
+
+var resultado1 = numero1 * 4
+escreva("4 x "+numero1+" = "+resultado1)
+
+var resultado1 = numero1 * 5
+escreva("5 x "+numero1+" = "+resultado1)
+
+
+para (var i=1; i <= 100;i++){
+    var resultado1 = i * numero1
+    escreva(i + " X " + numero1 " = " + resultado1)
+}
+
+
