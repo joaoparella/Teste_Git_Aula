@@ -1,5 +1,5 @@
 var numero1 = leia("digite um numero para somar ")
-var numero2 = leia("digite outro numero para somar")
+
 
 var soma = numero1 + numero2
 
