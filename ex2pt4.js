@@ -4,8 +4,8 @@ let numero;
 
 do{
     numero = Number(prompt("Digite um numero"));
-    soma = soma + numero;
+    soma = soma * numero;
 
 }while(numero!=0);
 
-console.log("Soma Total",soma)
+console.log("Multiplicacao Total",soma)
