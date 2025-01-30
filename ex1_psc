@@ -1,8 +1,6 @@
 var numero1 = leia("digite um numero para somar ")
 var numero2 = leia("teste 123")
 var soma = numero1 + numero2
-var sub = numero1 - numero2
-var mult = numero1 * numero2
-var div = numero1 / numero2
+
 
 escreva("resultado = " + soma)
